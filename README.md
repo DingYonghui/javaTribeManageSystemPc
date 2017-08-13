@@ -46,7 +46,7 @@
 
 ## dao层代码演示
 1. IManagerDao.java
-'''
+```
 package com.dyh.javaTribeManSys.dao;
 
 import java.sql.ResultSet;
@@ -94,10 +94,10 @@ public interface IManagerDao {
 
 }
 
-'''
+```
 
 2. ManagerDaoImpl.java
-'''
+```
 package com.dyh.javaTribeManSys.dao.impl;
 
 import java.sql.Connection;
@@ -639,4 +639,7 @@ public class  ManagerDaoImpl implements IManagerDao{
 	 
 }
 
-'''
+```
+3. JDBC
+![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/dao.jpg)
+
