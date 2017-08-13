@@ -27,7 +27,7 @@
 3. 我的信息页</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/myinfo.jpg)
 4. 设置</br>
-![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/select.jpg)
+![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/setting.jpg)
 5. 添加用户</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/add.jpg)
 6. 删除用户</br>
@@ -640,6 +640,6 @@ public class  ManagerDaoImpl implements IManagerDao{
 }
 
 ```
-3. JDBC
+3. JDBC</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/dao.jpg)
 
