@@ -1,7 +1,7 @@
 # javaTribeManageSystemPc
 
 ## 简介
-大一刚学完JDBC时做的一个管理信息系统，基于java的swing组件，实现了基本crud功能。
+爪哇部落管理信息系统。大一刚学完JDBC时做的一个管理信息系统，基于java的swing组件，实现了基本crud功能。
 
 ## 功能模块
 - 管理员和普通成员登录
