@@ -20,28 +20,28 @@
 
 ## 系统演示
 ### 管理员后台
-1. 登录
+1. 登录</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/login.jpg)
-2. 管理员首页
+2. 管理员首页</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/main.jpg)
-3. 我的信息页
+3. 我的信息页</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/myinfo.jpg)
-4. 设置
+4. 设置</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/select.jpg)
-5. 添加用户
+5. 添加用户</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/add.jpg)
-6. 删除用户
+6. 删除用户</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/delete.jpg)
-7. 查询用户
+7. 查询用户</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/select.jpg)
-8. 修改用户
+8. 修改用户</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/update.jpg)
-9. 功能模块汇总
+9. 功能模块汇总</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/function.jpg)
 ### 普通成员前台
-1. 登录
+1. 登录</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/login.jpg)
-2. 普通成员首页
+2. 普通成员首页</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/student.jpg)
 
 ## dao层代码演示
