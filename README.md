@@ -642,4 +642,9 @@ public class  ManagerDaoImpl implements IManagerDao{
 ```
 3. JDBC</br>
 ![](https://github.com/DingYonghui/javaTribeManageSystemPc/blob/master/screenshots/dao.jpg)
-
+## 如何交流、反馈
+- QQ：1214914477
+- E-mail：1214914477@qq.com or 18826077893@163.com
+- GitHub：https://github.com/DingYonghui/ItChatApplication/
+- 个人网址：http://www.dingyonghui.cn
+- CSDN博客：http://blog.csdn.net/qq_24891153
